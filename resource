@@ -6,3 +6,4 @@ MVVM pattern
   https://github.com/PuzzleLeaf/flutter_mvvm_tutorial/tree/master/01.news
   https://www.youtube.com/watch?v=6l2jDERA5eI Flutter NewsCloud App -Using MVVM pattern with Provider | بالعربي
   https://github.com/tharwatsamy/news_cloud
+  stream https://www.youtube.com/watch?v=Z2rGopxoZao Flutter Architecture Best Practices | Flutter Architecture MVVM | Flutter Architecture Tutorial
