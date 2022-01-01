@@ -7,6 +7,7 @@ MVVM pattern
   https://www.youtube.com/watch?v=6l2jDERA5eI Flutter NewsCloud App -Using MVVM pattern with Provider | بالعربي
   https://github.com/tharwatsamy/news_cloud
   stream https://www.youtube.com/watch?v=Z2rGopxoZao Flutter Architecture Best Practices | Flutter Architecture MVVM | Flutter Architecture Tutorial
+  mvvm getx https://github.com/muhammadarslannasr/MVVM-GETX-FLUTTER
   
 GetX
   Firestore Auth https://www.youtube.com/watch?v=BiV0DcXgk58 Firestore User with GetX | Todo App https://github.com/tadaspetra/getx_examples/tree/master/todo_app
