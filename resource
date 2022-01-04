@@ -11,3 +11,5 @@ MVVM pattern
   
 GetX
   Firestore Auth https://www.youtube.com/watch?v=BiV0DcXgk58 Firestore User with GetX | Todo App https://github.com/tadaspetra/getx_examples/tree/master/todo_app
+
+  new push notification https://itnext.io/push-notifications-with-firebase-on-flutter-df68cc830c89
