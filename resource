@@ -8,9 +8,11 @@ MVVM pattern
   https://github.com/tharwatsamy/news_cloud
   stream https://www.youtube.com/watch?v=Z2rGopxoZao Flutter Architecture Best Practices | Flutter Architecture MVVM | Flutter Architecture Tutorial
   mvvm getx https://github.com/muhammadarslannasr/MVVM-GETX-FLUTTER
-  
+  Getx mvvm firebase auth firestore https://github.com/PesaCoder/Ecommerce_App
+
 GetX
   Firestore Auth https://www.youtube.com/watch?v=BiV0DcXgk58 Firestore User with GetX | Todo App https://github.com/tadaspetra/getx_examples/tree/master/todo_app
 
   new push notification https://itnext.io/push-notifications-with-firebase-on-flutter-df68cc830c89
   ios fcm setup https://medium.com/inspireui/setup-firebase-cloud-messaging-fcm-push-notification-for-flutter-apps-8c767fe64e54
+  
