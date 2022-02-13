@@ -9,6 +9,7 @@ MVVM pattern
   stream https://www.youtube.com/watch?v=Z2rGopxoZao Flutter Architecture Best Practices | Flutter Architecture MVVM | Flutter Architecture Tutorial
   mvvm getx https://github.com/muhammadarslannasr/MVVM-GETX-FLUTTER
   Getx mvvm firebase auth firestore https://github.com/PesaCoder/Ecommerce_App
+  Provider mvvm https://github.com/shubham-chhimpa/flutter-mvvm-provider-demo
 
 GetX
   Firestore Auth https://www.youtube.com/watch?v=BiV0DcXgk58 Firestore User with GetX | Todo App https://github.com/tadaspetra/getx_examples/tree/master/todo_app
