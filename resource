@@ -17,3 +17,4 @@ GetX
   new push notification https://itnext.io/push-notifications-with-firebase-on-flutter-df68cc830c89
   ios fcm setup https://medium.com/inspireui/setup-firebase-cloud-messaging-fcm-push-notification-for-flutter-apps-8c767fe64e54
   
+https://github.com/pinkeshdarji/FlutterCreateSubmissions2019 - flutter projects gallery
