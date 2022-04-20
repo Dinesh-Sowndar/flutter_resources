@@ -18,3 +18,4 @@ GetX
   ios fcm setup https://medium.com/inspireui/setup-firebase-cloud-messaging-fcm-push-notification-for-flutter-apps-8c767fe64e54
   
 https://github.com/pinkeshdarji/FlutterCreateSubmissions2019 - flutter projects gallery
+https://dev.to/pablonax/40-free-flutter-templates-2022-5db1 40 free flutter templates
