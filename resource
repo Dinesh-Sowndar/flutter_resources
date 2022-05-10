@@ -19,3 +19,5 @@ GetX
   
 https://github.com/pinkeshdarji/FlutterCreateSubmissions2019 - flutter projects gallery
 https://dev.to/pablonax/40-free-flutter-templates-2022-5db1 40 free flutter templates
+
+https://github.com/red-star25/dio_blog dio get_it
