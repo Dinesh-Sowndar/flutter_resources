@@ -10,6 +10,7 @@ MVVM pattern
   mvvm getx https://github.com/muhammadarslannasr/MVVM-GETX-FLUTTER
   Getx mvvm firebase auth firestore https://github.com/PesaCoder/Ecommerce_App
   Provider mvvm https://github.com/shubham-chhimpa/flutter-mvvm-provider-demo
+Provider dio mvvm https://github.com/developersamuelakram/flutter_mvvm_newsapp
 
 GetX
   Firestore Auth https://www.youtube.com/watch?v=BiV0DcXgk58 Firestore User with GetX | Todo App https://github.com/tadaspetra/getx_examples/tree/master/todo_app
